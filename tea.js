@@ -35,7 +35,7 @@ Birth.addEventListener("click", function () {
 })
 Modern.addEventListener("click", function () {
     console.log("Modern");
-    document.getElementById('image').src = "modernchai.jpg";
+    document.getElementById('image').src = "modernchai.JPG";
     document.getElementById('title').innerHTML = "Chai as a popular global beverage";
     document.getElementById('modernstory').style.display="initial";
     document.getElementById('chaistory').style.display="none";
